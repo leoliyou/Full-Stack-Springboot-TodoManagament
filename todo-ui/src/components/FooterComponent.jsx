@@ -5,7 +5,7 @@ const FooterComponent = () => {
     <div>
       <footer className="footer">
         <p className="text-center">
-          Copyrights reserved at 2023-25 by Java Guides
+          Copyrights reserved at 2023-25 by you li
         </p>
       </footer>
     </div>
